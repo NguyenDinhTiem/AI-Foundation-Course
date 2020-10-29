@@ -11,5 +11,5 @@
 | 5. Genetic Algorthm| <a href="https://github.com/NguyenDinhTiem/Genetic_Algorithn" role="button"><img class="notebook-badge-image" src="https://img.shields.io/static/v1?label=&amp;message=View%20On%20GitHub&amp;color=586069&amp;logo=github&amp;labelColor=2f363d"></a>   |
 | 6. Computational Graph and Linear Regression |  <a href="https://github.com/NguyenDinhTiem/Computational-Graph-and-Linear-Regression/blob/main/ComputationalGraph%26LinearRegression.ipynb" role="button"><img class="notebook-badge-image" src="https://img.shields.io/static/v1?label=&amp;message=View%20On%20GitHub&amp;color=586069&amp;logo=github&amp;labelColor=2f363d"></a>   |
 
-### Tài liệu được viết dựa trên khóa học mùa thu AI Foudation Course by AI VietNam, mọi ý kiến đóng góp xin gửi về email: nguyendinhtiem1999@gmail.com
+Tài liệu được viết dựa trên khóa học mùa thu AI Foudation Course by AI VietNam, mọi ý kiến đóng góp xin gửi về email: nguyendinhtiem1999@gmail.com
 ### Thanks!
