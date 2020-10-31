@@ -3,7 +3,7 @@
 ### **NỘI DUNG:** 
 
 | Lesson||     |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-----|
 | 1. Python                                    |<a href="https://github.com/NguyenDinhTiem/Python_co_ban" role="button"><img class="notebook-badge-image" src="https://img.shields.io/static/v1?label=&amp;message=View%20On%20GitHub&amp;color=586069&amp;logo=github&amp;labelColor=2f363d"></a>   |
 | 2. Numpy| <a href="https://github.com/NguyenDinhTiem/Numpy" role="button"><img class="notebook-badge-image" src="https://img.shields.io/static/v1?label=&amp;message=View%20On%20GitHub&amp;color=586069&amp;logo=github&amp;labelColor=2f363d"></a>   |
 | 3. Statistics and Applications| <a href="https://github.com/NguyenDinhTiem/Statistics-and-Applications" role="button"><img class="notebook-badge-image" src="https://img.shields.io/static/v1?label=&amp;message=View%20On%20GitHub&amp;color=586069&amp;logo=github&amp;labelColor=2f363d"></a>   |
